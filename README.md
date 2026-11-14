@@ -1,7 +1,7 @@
 # ta-anim-demo
 UE5 speed-driven locomotion demo  
 根据UE 5.4.4的第三人称模板简单实现了一个更符合我心中预期的奔跑动作模型  
-[▶ B站链接](https://www.bilibili.com/video/BV1DRsG6nE84/?vd_source=32bdfd35e1929cfb581609c85be8dac6)  
+[▶ B站视频链接](https://www.bilibili.com/video/BV1DRsG6nE84/?vd_source=32bdfd35e1929cfb581609c85be8dac6)  
 [⬇ 原始文件](video-demo.mp4)
 
 ## 状态机
